@@ -8,7 +8,11 @@ global x_mat
 #data_name = "KDDCUP_mscred_data"
 #data_name = "change_point_training_3"
 #data_name = "kddcup_train"
+<<<<<<< HEAD
 data_name = "data_7"
+=======
+data_name = "data_29"
+>>>>>>> origin/master
 data_source_path = "../../data/KDDCUP_t/"+ data_name + ".csv"
 #数据标准化
 def ZscoreNormalization(x, n):
